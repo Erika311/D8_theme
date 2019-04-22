@@ -4,13 +4,15 @@
 2. converted to page.html.yml
 3. created a custom theme
 
-# My Process
+# Project overview
 
 1. I created a static version of the site using HTML / CSS (SASS) and Gulp
 2. Next I create a local version of the site outopusrocks using D8
 3. Converted my static site to a theme D8 would recognize
 4. I create a custom page
 5. Used twigs 
+6. Drop down menu is just CSS to show expending
+7. 
 
 # Challeges
 
