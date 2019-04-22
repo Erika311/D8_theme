@@ -12,7 +12,8 @@
 4. I create a custom page
 5. Used twigs 
 6. Drop down menu is just CSS to show expending
-7. 
+7. 2 days of Development
+
 
 # Challeges
 
