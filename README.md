@@ -12,13 +12,13 @@
 4. I create a custom page
 5. Used twigs 
 6. Drop down menu is just CSS to show expending
-7. 2 days of Development
 
 
 # Challeges
 
 1. Working with Drupal 8 for the first time
 2. Learning how to uses twigs to create custom themes
+3. 2 days of Development
 
 # No Modules Added
 
