@@ -1,10 +1,8 @@
 # D8_theme
 
-static Index page created
-
-converted to page.html.yml
-
-created a custom theme
+1. static Index page created
+2. converted to page.html.yml
+3. created a custom theme
 
 # My Process
 
@@ -23,6 +21,12 @@ created a custom theme
 
 1. I opted not to add any new modules
 2. I opted to create custom content types and use views for sorting and displaying
+
+# Attached files for reviewing
+1. octopusrocks.info.yml
+2. octopusrocks.libraries.yml
+3. style.css
+4. page.html.twig
 
 
 
